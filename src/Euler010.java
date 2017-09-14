@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+/*import java.util.ArrayList;
 
 public class Euler010 {
     private static ArrayList<Integer> sieve(Integer exclusiveMax) {
@@ -39,4 +39,4 @@ public class Euler010 {
     public static void main(String[] args) {
         System.out.println(calculate());
     }
-}
+}*/

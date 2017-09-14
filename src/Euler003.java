@@ -1,4 +1,4 @@
-import java.util.ArrayList;
+/*import java.util.ArrayList;
 import java.util.Collections;
 
 public class Euler003 {
@@ -21,3 +21,4 @@ public class Euler003 {
         return factors;
     }
 }
+*/

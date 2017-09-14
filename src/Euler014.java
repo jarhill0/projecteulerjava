@@ -1,4 +1,4 @@
-import java.util.HashMap;
+/*import java.util.HashMap;
 
 public class Euler014 {
     private HashMap<Long, Integer> solvedCollatz = new HashMap<>();
@@ -43,3 +43,4 @@ public class Euler014 {
         return bestLenStartingValue;
     }
 }
+*/
